@@ -3,3 +3,9 @@
 Backend api for CRUD on players and teams.  
 User can list players with team information and old and new contracts.  
 
+
+docker run :  
+```
+docker build -f Dockerfile -t moviesearch .  
+docker run -p 8082:8082 moviesearch  
+```  
