@@ -6,6 +6,6 @@ User can list players with team information and old and new contracts.
 
 docker run :  
 ```
-docker build -f Dockerfile -t moviesearch .  
-docker run -p 8082:8082 moviesearch  
+docker build -f Dockerfile -t footballmarket .  
+docker run -p 8082:8082 footballmarket  
 ```  
